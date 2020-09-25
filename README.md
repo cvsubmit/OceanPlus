@@ -1,11 +1,11 @@
-<<<<<<< HEAD
+
 The code is provided for AAAI2021 double blind review.
 
 ### Install Environment
 ```
 sh install.sh
 ```
--Note: all the results in the paper (including other methods) are performed with `vot-toolkit=0.2.0`.
+- Note: all the results in the paper (including other methods) are performed with `vot-toolkit=0.2.0`.
 
 ### Install VOT workspace
 please create workspace following the official [guidelines](https://www.votchallenge.net/howto/tutorial_python.html).
@@ -38,9 +38,4 @@ We provided a reference of `trackers.ini` in `$tracker_path/trackers.ini`. Pleas
 
 The training code and testing scripts and hyper-parameters will be released after accepted. Thanks for your interest!
  
-=======
-# OceanPlus
-Code for OceanPlus in AAAI blind review
 
-The code will be uploaded asap.
->>>>>>> 9a25c675985f5cfe849c463072fa562823e549f1
