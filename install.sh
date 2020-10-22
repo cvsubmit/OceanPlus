@@ -1,4 +1,4 @@
 conda env create -f OceanPlus.yaml
-pip install git+https://github.com/votchallenge/vot-toolkit-python@92241358a172e6815c8b5c4a24a1e89b6d2864a9
+pip install git+https://github.com/votchallenge/vot-toolkit-python@7a1b807df3d64ea310c554e9f487f1e5f53bf249
 pip install shapely
 pip install easydict
